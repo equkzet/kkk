@@ -1,0 +1,13 @@
+C:\Users\Mariia\source\repos\BANK\BANK\bin\Debug\BANK.exe.config
+C:\Users\Mariia\source\repos\BANK\BANK\bin\Debug\BANK.exe
+C:\Users\Mariia\source\repos\BANK\BANK\bin\Debug\BANK.pdb
+C:\Users\Mariia\source\repos\BANK\BANK\obj\Debug\BANK.csproj.AssemblyReference.cache
+C:\Users\Mariia\source\repos\BANK\BANK\obj\Debug\BANK.Form1.resources
+C:\Users\Mariia\source\repos\BANK\BANK\obj\Debug\BANK.Properties.Resources.resources
+C:\Users\Mariia\source\repos\BANK\BANK\obj\Debug\BANK.csproj.GenerateResource.cache
+C:\Users\Mariia\source\repos\BANK\BANK\obj\Debug\BANK.csproj.CoreCompileInputs.cache
+C:\Users\Mariia\source\repos\BANK\BANK\obj\Debug\BANK.exe
+C:\Users\Mariia\source\repos\BANK\BANK\obj\Debug\BANK.pdb
+C:\Users\Mariia\source\repos\BANK\BANK\obj\Debug\BANK.Form2.resources
+C:\Users\Mariia\source\repos\BANK\BANK\obj\Debug\BANK.Form3.resources
+C:\Users\Mariia\source\repos\BANK\BANK\obj\Debug\BANK.Form4.resources
